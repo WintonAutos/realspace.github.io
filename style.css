@@ -1,5 +1,7 @@
 html{
 allowtransparency: "true";	
+	background-color: black;
+	color: white;
 }
 
 #main{
